@@ -14,8 +14,6 @@ $$\sum_{i=1}^{n} i = \frac{n(n+1)}{2}$$
 
 Survey results for favorite ice cream flavors:
 
-<img width="1653" height="993" alt="ice cream chart" src="https://github.com/user-attachments/assets/4eecca0c-bd14-4805-b6e7-9a5c94c922ab" />
-
 ![Ice Cream Chart](https://github.com/user-attachments/assets/32543004-65f9-4afe-9e45-20145e158b32)
 
 ## ✍️ Reflection
