@@ -1,0 +1,1259 @@
+# Event Conversion
+
+##
+
+- 100 metres, Men
+- 400 metres, Men
+- 800 metres, Men
+- 1,500 metres, Men
+- 5 miles, Men
+- Marathon, Men
+- 110 metres Hurdles, Men
+- 400 metres Hurdles, Men
+- 3,200 metres Steeplechase, Men
+- 3,500 metres Race Walk, Men
+- 10 miles Race Walk, Men
+- Standing High Jump, Men
+- Long Jump, Men
+- Standing Long Jump, Men
+- Triple Jump, Men
+- Lightweight, Men
+- Middleweight, Men
+- Springboard, Men
+- Rugby, Men
+- Small-Bore Rifle, Prone, 50 and 100 yards, Men
+- Small-Bore Rifle, Disappearing Target, 25 yards, Men
+- Small-Bore Rifle, Moving Target, 25 yards, Men
+- 100 metres Freestyle, Men
+- 400 metres Freestyle, Men
+- 1,500 metres Freestyle, Men
+- 4 ├ù 200 metres Freestyle Relay, Men
+- 100 metres Backstroke, Men
+- 200 metres Breaststroke, Men
+- 200 metres, Men
+- 5,000 metres, Men
+- 10,000 metres, Men
+- 10 kilometres Race Walk, Men
+- Cross-Country, Individual, Men
+- Single Sculls, Men
+- Eights, Men
+- 400 metres Breaststroke, Men
+- 100 metres Freestyle, Women
+- Singles, Covered Courts, Men
+- Individual All-Around, Men
+- Standing Triple Jump, Men
+- Discus Throw, Men
+- Sprint, Men
+- Sprint, Professionals, Men
+- Tandem Sprint, Professionals, Men
+- Points Race, Professionals, Men
+- 3,000 metres, Handicap, Professionals, Men
+- Singles, Women
+- Singles, Handicap, Women
+- Doubles, Mixed
+- Doubles, Handicap, Mixed
+- Shot Put, Men
+- Discus Throw, Greek Style, Men
+- Javelin Throw, Freestyle, Men
+- ├ëp├⌐e, Individual, Men
+- ├ëp├⌐e, Team, Men
+- Sabre, Individual, Men
+- Sabre, Team, Men
+- Foil, Individual, Open
+- Singles, Men
+- Doubles, Men
+- Lightweight, Greco-Roman, Men
+- Middleweight, Greco-Roman, Men
+- Light-Heavyweight, Greco-Roman, Men
+- Sculpturing, Open
+- 4 ├ù 100 metres Relay, Men
+- 4 ├ù 400 metres Relay, Men
+- Pole Vault, Men
+- Hammer Throw, Men
+- Pentathlon, Men
+- Decathlon, Men
+- Road Race, Individual, Men
+- Road Race, Team, Men
+- Foil, Individual, Men
+- Doubles, Covered Courts, Men
+- Doubles, Covered Courts, Mixed
+- Featherweight, Greco-Roman, Men
+- Middleweight B, Greco-Roman, Men
+- Solo, Women
+- Duet, Women
+- 100 metres, Women
+- 200 metres, Women
+- Marathon, Women
+- Light-Welterweight, Men
+- Light-Heavyweight, Men
+- Windsurfer, Men
+- Half-Lightweight, Men
+- 50 metres Freestyle, Men
+- 50 metres Freestyle, Women
+- 100 metres Butterfly, Men
+- Middle-Heavyweight, Men
+- Half-Middleweight, Men
+- 800 metres Freestyle, Women
+- Super-Heavyweight, Men
+- One Person Dinghy, Women
+- Multihull, Mixed
+- 200 metres Freestyle, Men
+- Flyweight, Women
+- Air Pistol, 10 metres, Men
+- 100 metres Breaststroke, Men
+- Air Rifle, 10 metres, Women
+- Long Jump, Women
+- Air Rifle, 10 metres, Men
+- Small-Bore Rifle, Three Positions, 50 metres, Women
+- 100 metres Breaststroke, Women
+- Individual, Men
+- Floor Exercise, Men
+- Parallel Bars, Men
+- Horizontal Bar, Men
+- Individual, Women
+- Team, Mixed
+- Team, Men
+- Team, Women
+- Extra-Lightweight, Men
+- Welterweight, Men
+- Heavyweight II, Men
+- Heavyweight, Freestyle, Men
+- Light-Middleweight, Men
+- Two, Men
+- Shot Put, Women
+- Two Person Keelboat, Open
+- Light-Heavyweight, Freestyle, Men
+- Hammer Throw, Women
+- Heavyweight, Men
+- Half-Middleweight, Women
+- Half-Heavyweight, Men
+- Two Person Dinghy, Men
+- Skeleton, Men
+- 1,000 metres Time Trial, Men
+- Individual Pursuit, 4,000 metres, Men
+- 400 metres, Women
+- 800 metres, Women
+- 1,500 metres, Women
+- 4 ├ù 400 metres Relay, Women
+- Points Race, Men
+- Bantamweight, Men
+- Windsurfer, Open
+- One Person Dinghy, Men
+- 4 ├ù 100 metres Relay, Women
+- Canadian Doubles, 1,000 metres, Men
+- Kayak Singles, 500 metres, Women
+- Cross-Country, Men
+- One Person Dinghy, Open
+- High Jump, Men
+- High Jump, Women
+- Rapid-Fire Pistol, 25 metres, Men
+- Small-Bore Rifle, Prone, 50 metres, Men
+- Trap, Open
+- 3,000 metres Steeplechase, Men
+- Flyweight, Men
+- Featherweight, Men
+- Javelin Throw, Men
+- 100 kilometres Team Time Trial, Men
+- Three Person Keelboat, Open
+- 5,000 metres, Women
+- 10,000 metres, Women
+- 3,000 metres Steeplechase, Women
+- Welterweight, Freestyle, Men
+- 400 metres Hurdles, Women
+- Handball, Men
+- Skeet, Women
+- Light-Flyweight, Men
+- 100 metres Hurdles, Women
+- Heptathlon, Women
+- Small-Bore Rifle, Prone, 50 metres, Open
+- Free Pistol, 50 metres, Open
+- Road Race, Individual, Women
+- Triple Jump, Women
+- Kayak Singles, 200 metres, Men
+- Kayak Singles, 1,000 metres, Men
+- 200 metres Butterfly, Men
+- 200 metres Individual Medley, Men
+- 400 metres Individual Medley, Men
+- Skeet, Open
+- Horse Vault, Men
+- Rings, Men
+- Pommelled Horse, Men
+- Skeet, Men
+- 200 metres Backstroke, Men
+- 400 metres Freestyle, Women
+- Olympic Distance, Men
+- 100 metres Backstroke, Women
+- Sporting Pistol, 25 metres, Women
+- Javelin Throw, Women
+- Air Pistol, 10 metres, Women
+- Lightweight, Freestyle, Men
+- Super G, Men
+- Giant Slalom, Men
+- Slalom, Men
+- Lightweight, Women
+- Heavyweight, Greco-Roman, Men
+- Half-Lightweight, Women
+- Free Pistol, 50 metres, Men
+- 100 metres Butterfly, Women
+- Giant Slalom, Women
+- Slalom, Women
+- Featherweight, Women
+- 4 ├ù 100 metres Medley Relay, Men
+- 3,000 metres, Women
+- Basketball, Men
+- Roller Hockey, Men
+- Handball, Women
+- Trap, Men
+- 200 metres Breaststroke, Women
+- Middleweight, Women
+- Beach Volleyball, Men
+- Canadian Singles, 500 metres, Men
+- Canadian Singles, 1,000 metres, Men
+- Basketball, Women
+- Canadian Singles, 200 metres, Men
+- Lightweight Double Sculls, Men
+- Hockey, Men
+- Football, Men
+- Flyweight, Freestyle, Men
+- Featherweight, Freestyle, Men
+- Middleweight, Freestyle, Men
+- Bantamweight, Greco-Roman, Men
+- Bantamweight, Freestyle, Men
+- Light-Flyweight, Freestyle, Men
+- Platform, Men
+- Light-Flyweight, Greco-Roman, Men
+- Pairs, Mixed
+- 20 kilometres Race Walk, Women
+- Welterweight, Greco-Roman, Men
+- Super-Heavyweight, Freestyle, Men
+- Ice Dancing, Mixed
+- Sabre, Individual, Women
+- Individual, Open
+- Group, Women
+- Super-Heavyweight, Greco-Roman, Men
+- Flyweight, Freestyle, Women
+- Lightweight, Freestyle, Women
+- Middleweight, Freestyle, Women
+- Sanshou (Γëñ56 kilograms), Men
+- Sanshou (Γëñ85 kilograms), Men
+- Individual Time Trial, Women
+- Single Sculls, Women
+- Welterweight, Women
+- Kayak Singles, Slalom, Men
+- Kayak Singles, 200 metres, Women
+- Sprint, Women
+- Keirin, Women
+- Double Sculls, Men
+- Featherweight, Freestyle, Women
+- Individual All-Around, Women
+- Floor Exercise, Women
+- Horse Vault, Women
+- Uneven Bars, Women
+- Balance Beam, Women
+- Extra-Lightweight, Women
+- Heavyweight, Women
+- Kumite, Γëñ67 kg, Men
+- Kumite, Γëñ75 kg, Men
+- Kumite, >61 kg, Women
+- Light-Heavyweight, Freestyle, Women
+- Springboard, Women
+- Small-Bore Rifle, Three Positions, 50 metres, Men
+- Heavyweight I, Men
+- Flyweight, Greco-Roman, Men
+- 30 kilometres, Women
+- Moguls, Men
+- Kayak Singles, 500 metres, Men
+- 15 kilometres, Men
+- 30 kilometres, Men
+- 50 kilometres, Men
+- 10/10 kilometres Pursuit, Men
+- 10 kilometres, Women
+- 15 kilometres, Women
+- 5/5 kilometres Pursuit, Women
+- Team Sprint, Men
+- Sanshou (Γëñ70 kilograms), Men
+- Light-Heavyweight, Women
+- Super-Heavyweight, Women
+- 30 kilometres Skiathlon, Men
+- Half-Heavyweight, Women
+- Two Person Dinghy, Open
+- 500 metres, Men
+- 1,000 metres, Men
+- Halfpipe, Men
+- 10 kilometres Race Walk, Women
+- 200 metres Butterfly, Women
+- Four, Men
+- 10 kilometres, Men
+- 10/15 kilometres Pursuit, Men
+- 200 metres Backstroke, Women
+- Downhill, Men
+- Super G, Women
+- Combined, Men
+- 10 kilometres Sprint, Men
+- 20 kilometres, Men
+- 7.5 kilometres Sprint, Women
+- Downhill, Women
+- Combined, Women
+- Windsurfer, Women
+- 200 metres Individual Medley, Women
+- Kayak Singles, Slalom, Women
+- Cross, Men
+- Canadian Singles, Slalom, Women
+- 15 kilometres Skiathlon, Women
+- Cross, Women
+- Two Person Heavyweight Dinghy, Open
+- 5.5 metres, Open
+- Multihull, Open
+- 4 ├ù 100 metres Freestyle Relay, Men
+- Two Person Keelboat, Men
+- Three Person Keelboat, Women
+- Olympic Distance, Women
+- Skiff, Men
+- Architecture, Further Entries, Open
+- 20 kilometres Race Walk, Men
+- 50 kilometres Race Walk, Men
+- 200 metres Freestyle, Women
+- Military Rifle, Kneeling Or Standing, 300 metres, Men
+- Volleyball, Men
+- Foil, Individual, Women
+- ├ëp├⌐e, Individual, Women
+- 400 metres Individual Medley, Women
+- Doubles, Women
+- Volleyball, Women
+- Individual Time Trial, Men
+- 10 kilometres Open Water, Women
+- Discus Throw, Women
+- Pentathlon, Women
+- Heavyweight, Freestyle, Women
+- Football, Women
+- 4 ├ù 7.5 kilometres Relay, Men
+- 4 ├ù 7.5 kilometres Relay, Women
+- 4 ├ù 10 kilometres Relay, Men
+- 5 kilometres, Women
+- 5/10 kilometres Pursuit, Women
+- 4 ├ù 5 kilometres Relay, Women
+- Aerials, Men
+- Aerials, Women
+- Normal Hill, Individual, Men
+- Large Hill, Individual, Men
+- Team All-Around, Men
+- Team All-Around, Women
+- Canadian Doubles, 500 metres, Men
+- Points Race, Women
+- Coxless Pairs, Men
+- Quadruple Sculls, Men
+- Eights, Women
+- 4 ├ù 100 metres Freestyle Relay, Women
+- 4 ├ù 200 metres Freestyle Relay, Women
+- Moguls, Women
+- Ice Hockey, Men
+- 500 metres, Women
+- 1,000 metres, Women
+- Kayak Doubles, 500 metres, Women
+- Kayak Fours, 500 metres, Women
+- 12.5 kilometres Pursuit, Men
+- 10 kilometres Pursuit, Women
+- Kayak Doubles, 500 metres, Men
+- Kayak Fours, 1,000 metres, Men
+- 500 metres Time Trial, Women
+- Coxless Pairs, Women
+- Quadruple Sculls, Women
+- Running Target, 10 metres, Men
+- 12.5 kilometres Mass Start, Women
+- 4 ├ù 6 kilometres Relay, Women
+- Coxless Fours, Men
+- 15 kilometres Mass Start, Men
+- Team Sprint, Women
+- Pole Vault, Women
+- Kayak Doubles, 200 metres, Men
+- Team Pursuit, Women
+- Omnium, Women
+- 2 ├ù 6 kilometres and 2 ├ù 7.5 kilometres Relay, Mixed
+- Double Sculls, Women
+- Mass Start, Men
+- Mass Start, Women
+- Kayak Doubles, 1,000 metres, Men
+- Kayak Fours, 500 metres, Men
+- Canadian Singles, 200 metres, Women
+- Canadian Doubles, 500 metres, Women
+- Omnium, Men
+- Lightweight Double Sculls, Women
+- Air Rifle, 10 metres, Team, Mixed
+- 4 ├ù 100 metres Medley Relay, Women
+- 4 ├ù 100 metres Medley Relay, Mixed
+- Team Aerials, Mixed
+- Team Pursuit (6 laps), Women
+- Small-Bore Rifle, Three Positions, 50 metres, Open
+- Rapid-Fire Pistol, 25 metres, Open
+- Platform, Women
+- Cross-Country, Women
+- Beach Volleyball, Women
+- Park, Men
+- Shortboard, Men
+- Shortboard, Women
+- Unknown Event, Open
+- 80 metres Hurdles, Women
+- Individual Pursuit, Women
+- 800 metres Freestyle, Men
+- Free Rifle, Three Positions, 300 metres, Open
+- Running Target, 50 metres, Open
+- Open Class, Men
+- 3,000 metres Relay, Women
+- Synchronized Platform, Women
+- Trap, Women
+- Baseball, Men
+- Double Trap, Men
+- 4 ├ù 400 metres Relay, Mixed
+- Music, Open
+- Team Pursuit, 4,000 metres, Men
+- Foil, Team, Men
+- Tandem Sprint, 2,000 metres, Men
+- Running Target, 50 metres, Men
+- Team, Open
+- Madison, Men
+- BMX, Men
+- Synchronized Platform, Men
+- BMX, Women
+- Keirin, Men
+- Rugby Sevens, Women
+- Street, Men
+- Finweight, Men
+- Canadian Singles, Slalom, Men
+- Coxed Fours, Men
+- Water Polo, Men
+- Skiff, Open
+- One Person Heavyweight Dinghy, Men
+- Two Person Dinghy, Women
+- Halfpipe, Women
+- Four, Open
+- Kumite, >75 kg, Men
+- Slopestyle, Women
+- Big Air, Women
+- 10 kilometres Open Water, Men
+- Free Rifle, Three Positions, 300 metres, Men
+- Doubles, Open
+- Finweight, Women
+- Bantamweight, Women
+- Softball, Women
+- Double Trap, Women
+- Daoshu & Gunshu, Men
+- Nanquan & Nangun, Men
+- Taijiquan & Taijijuan, Men
+- Nanquan & Nandao, Women
+- Jianshu & Qiangshu, Women
+- Taijiquan & Taijijuan, Women
+- Kata, Men
+- Kumite, Γëñ55 kg, Women
+- Dueling Pistol, 30 metres, Men
+- Military Rifle, Three Positions, 300 metres, Men
+- Military Rifle, Any Position, 600 metres, Men
+- Coxed Pairs, Men
+- Lightweight Coxless Fours, Men
+- Ski Cross, Women
+- Skiff, Women
+- Park, Women
+- 1,500 metres Freestyle, Women
+- Rugby Sevens, Men
+- Large Hill, Team, Men
+- Canadian Doubles, Slalom, Men
+- Parallel Giant Slalom, Women
+- Ski Cross, Men
+- Normal Hill / 10 km, Individual, Men
+- Large Hill / 10 km, Individual, Men
+- Parallel Giant Slalom, Men
+- Slopestyle, Men
+- Team Relay, Mixed
+- Parallel Slalom, Women
+- Big Air, Men
+- Mixed Doubles, Mixed
+- Ice Hockey, Women
+- Skeleton, Women
+- Normal Hill, Individual, Women
+- Normal Hill, Team, Mixed
+- ├ëp├⌐e, Masters and Amateurs, Individual, Men
+- 6 metres, Open
+- Foil, Team, Women
+- Mano, Doubles, Men
+- Mano, Singles, Men
+- Pala Corta, Doubles, Men
+- Frontenis, Doubles, Men
+- Frontenis, Doubles, Women
+- ├ëp├⌐e, Team, Women
+- Synchronized Springboard, Men
+- Air Pistol, 10 metres, Team, Mixed
+- 3,000 metres Race Walk, Men
+- 18 kilometres, Men
+- 3 ├ù 7.5 kilometres Relay, Women
+- 3 ├ù 5 kilometres Relay, Women
+- Coxed Fours, Women
+- Coxed Quadruple Sculls, Women
+- 20 kilometres, Women
+- Painting, Graphic Arts, Open
+- Painting, Paintings, Open
+- Gliding, Open
+- Team Portable Apparatus, Women
+- Coxless Fours, Women
+- Parallel Slalom, Men
+- Painting, Open
+- Sanshou (Γëñ60 kilograms), Women
+- Kumite, Γëñ61 kg, Women
+- Trap, Team, Mixed
+- Foil, Masters, Individual, Men
+- ├ëp├⌐e, Masters, Individual, Men
+- Free Rifle, Prone, 600 metres, Men
+- Free Rifle, 400, 600 and 800 metres, Team, Men
+- Polo, Men
+- 8 metres, Open
+- Four/Five, Men
+- Paleta Cuero, Doubles, Men
+- Paleta Goma, Doubles, Men
+- Tricks, Men
+- Hockey, Women
+- Au Chapelet, 33 metres, Men
+- Au Chapelet, 50 metres, Men
+- Au Cordon Dor├⌐, 33 metres, Men
+- Au Cordon Dor├⌐, 50 metres, Men
+- Sur La Perche ├Ç La Herse, Men
+- Sur La Perche ├Ç La Pyramide, Men
+- Championnat Du Monde, Men
+- 100 metres, Handicap, Men
+- 400 metres Hurdles, Handicap, Men
+- 400 metres, Professionals, Men
+- 1,500 metres, Professionals, Men
+- 6-hour race, Professionals, Men
+- 110 metres Hurdles, Professionals, Men
+- 2,500 metres Steeplechase, Professionals, Men
+- Paris-Toulouse-Paris, Cars, Men
+- Team Sprint, Professionals, Men
+- 50 kilometres, Professionals, Men
+- 100 kilometres, Professionals, Men
+- 100 miles, Professionals, Men
+- Hacks and Hunter Combined, Open
+- Four-In-Hand Competition, Open
+- Long Jump, Open
+- High Jump, Open
+- Sabre, Masters, Individual, Men
+- Coxless Pairs, Boys
+- Coxless Fours, Boys
+- Eights, Boys
+- Free Pistol, 50 metres, Team, Men
+- Free Rifle, Three Positions, 300 metres, Team, Men
+- Free Rifle, Kneeling, 300 metres, Men
+- Free Rifle, Prone, 300 metres, Men
+- Free Rifle, Standing, 300 metres, Men
+- 1,000 metres Freestyle, Men
+- 4,000 metres Freestyle, Men
+- 100 kilometres, Men
+- Free Pistol, 50 yards, Men
+- Free Pistol, 50 yards, Team, Men
+- Coxed Fours, Outriggers, Men
+- Target Archery, 28 metres, Individual, Men
+- Target Archery, 33 metres, Individual, Men
+- Target Archery, 50 metres, Individual, Men
+- Target Archery, 28 metres, Team, Men
+- Target Archery, 33 metres, Team, Men
+- Target Archery, 50 metres, Team, Men
+- Pole Archery, Small Birds, Individual, Men
+- Pole Archery, Large Birds, Individual, Men
+- Pole Archery, Small Birds, Team, Men
+- Pole Archery, Large Birds, Team, Men
+- Literature, Open
+- Team All-Around, Swedish System, Men
+- 3,000 metres, Team, Men
+- Cross-Country, Team, Men
+- Plain High, Men
+- Military Pistol, Team, Men
+- Military Rifle, Prone, 300 metres, Team, Men
+- Military Rifle, Prone, 600 metres, Team, Men
+- Military Rifle, Standing, 300 metres, Men
+- Military Rifle, Standing, 300 metres, Team, Men
+- Military Rifle, Prone, 300 and 600 metres, Team, Men
+- Small-Bore Rifle, Standing, 50 metres, Men
+- Smal-Bore Rifle, Standing, 50 metres, Team, Men
+- Trap, Team, Men
+- Unknown Event, Men
+- Tug-Of-War, Men
+- Plain High, Women
+- Savate, Men
+- Allround, Men
+- Literature, Epic Works, Open
+- Literature, Lyric Works, Open
+- Music, Compositions For Orchestra, Open
+- Music, Instrumental And Chamber, Open
+- Painting, Drawings And Water Colors, Open
+- Sculpturing, Medals And Reliefs, Open
+- Sculpturing, Statues, Open
+- Architecture, Designs For Town Planning, Open
+- Painting, Unknown Event, Open
+- Sculpturing, Unknown Event, Open
+- Sculpturing, Medals, Open
+- Sculpturing, Reliefs, Open
+- Kayak Singles, 10,000 metres, Men
+- Kayak Doubles, 10,000 metres, Men
+- Folding Kayak Singles, 10,000 metres, Men
+- Folding Kayak Doubles, 10,000 metres, Men
+- Canadian Doubles, 10,000 metres, Men
+- Kayak Relay, 4 ├ù 500 metres, Men
+- 1,500 metres Wheelchair, Men
+- 3,000 m, Men
+- 3,000 m, Women
+- 5,000 metres Relay, Men
+- Two, Women
+- 3x3 Basketball, Men
+- Madison, Women
+- Street, Women
+- Relay, Mixed
+- Changquan, Men
+- Jianshu & Qiangshu, Men
+- Changquan, Women
+- Daoshu & Gunshu, Women
+- Kata, Women
+- Military Pistol, 30 metres, Men
+- Architecture, Open
+- Sanshou (Γëñ52 kilograms), Women
+- Synchronized Springboard, Women
+- Water Polo, Women
+- Rope Climbing, Men
+- Side Horse, Men
+- Running Target, Single Shot, Men
+- Running Target, Single Shot, Team, Men
+- Running Target, Double Shot, Men
+- Running Target, Double Shot, Team, Men
+- Military Ski Patrol, Men
+- Literature, Dramatic Works, Open
+- Music, Compositions For Solo Or Chorus, Open
+- Painting, Applied Arts, Open
+- Target Shooting, Men
+- Distance Shooting, Men
+- Architecture, Architectural Designs, Open
+- Music, Unknown Event, Open
+- Sculpturing, Medals And Plaques, Open
+- Canadian Singles, 10,000 metres, Men
+- Ballet, Men
+- Ballet, Women
+- Gl├¡ma, Men
+- Free Pistol, 30 metres, Men
+- Military Pistol, 25 metres, Men
+- Muzzle-Loading Pistol, 25 metres, Men
+- Free Rifle, Any Position, 300 metres, Men
+- Military Rifle, 200 metres, Men
+- 500 metres Freestyle, Men
+- 1,200 metres Freestyle, Men
+- Unlimited, One Hand, Men
+- Unlimited, Two Hands, Men
+- 800 metres, Handicap, Men
+- 1,500 metres, Handicap, Men
+- Underwater Swimming, Men
+- Military Rifle, 200/500/600/800/900/1,000 yards, Team, Men
+- Team All-Around, Free System, Men
+- Coxed Fours, Inriggers, Men
+- Military Rifle, 200, 400, 500 and 600 metres, Team, Men
+- Small-Bore Rifle, Any Position, 50 metres, Men
+- Small-Bore Rifle, Prone, 50 metres, Team, Men
+- Small-Bore Rifle, Disappearing Target, 25 metres, Men
+- Singles, Covered Courts, Women
+- Middleweight A, Greco-Roman, Men
+- Military Rifle, Prone, 300 metres, Men
+- Military Rifle, Prone, 600 metres, Men
+- 800 metres Wheelchair, Women
+- Curling, Men
+- Curling, Women
+- 333Γàô metres Time Trial, Men
+- 12-Hours Race, Men
+- 2,500 metres Steeplechase, Men
+- 2,500 metres Steeplechase, Handicap, Men
+- 200 metres Obstacle Course, Men
+- Discus Throw, Both Hands, Men
+- Winter Pentathlon, Men
+- Giant Slalom, LW2, Men
+- Giant Slalom, LW4, Men
+- Giant Slalom, LW6/8, Men
+- 5 kilometres, B1, Women
+- Monobob, Women
+- Team Cross, Mixed
+- 2,000 metres Relay, Mixed
+- Jumping, Men
+- 60 metres, Men
+- 200 metres Hurdles, Men
+- 110 metres Hurdles, Handicap, Men
+- Alpinism, Open
+- Parallel Bars, Teams, Men
+- 100 metres Freestyle For Sailors, Men
+- Unlimited Class, Greco-Roman, Men
+- Free Rifle, 1,000 yards, Men
+- Shot Put, Both Hands, Men
+- Javelin Throw, Both Hands, Men
+- Dueling Pistol, 30 metres, Team, Men
+- Small-Bore Rifle, Disappearing Target, 25 metres, Team, Men
+- 100 metres, Professionals, Handicap, Men
+- 400 metres, Professionals, Handicap, Men
+- 100 yards, Handicap, Men
+- 120 yards Hurdles, Handicap, Men
+- Γàô mile, Professionals, Men
+- 1 mile, Professionals, Men
+- Australian Team Pursuit, Professionals, Men
+- 1 mile, Handicap, Professionals, Men
+- 2 miles, Handicap, Professionals, Men
+- 300 metres Freestyle, Women
+- Australian Rules Football, Men
+- Running Target, Single and Double Shot, Men
+- Tricks, Women
+- Jumping, Women
+- 10 metres, Open
+- 12 metres, Open
+- 56-pound Weight Throw, Men
+- Pes├ñpallo, Men
+- Bandy, Men
+- 5 kilometres, B1, Men
+- 3x3 Basketball, Women
+- Singles, Handicap, Men
+- Doubles, Handicap, Men
+- Cesta Punta, Doubles, Men
+- Sabre, Team, Women
+- Team Pursuit (8 laps), Men
+- 220 yards, Handicap, Men
+- 440 yards, Handicap, Men
+- 880 yards, Handicap, Men
+- 1 mile, Handicap, Men
+- Pole Vault, Handicap, Men
+- 56-pound Weight Throw, Handicap, Men
+- Lacrosse, Men
+- Single Sculls, Intermediate, Men
+- Single Sculls, Association, Men
+- 1,600 metres Medley Relay, Men
+- Team Pursuit, 1,980 yards, Men
+- Kayak Singles, 800 metres, Men
+- Kayak Doubles, 800 metres, Men
+- Kayak Fours, 800 metres, Men
+- Canadian Singles, 800 metres, Men
+- Canadian Doubles, 800 metres, Men
+- Canadian Fours, 800 metres, Men
+- Dog Sled Racing, Open
+- Ice Hockey Exhibition, Men
+- Giant Slalom, LW2, Women
+- Club Swinging, Men
+- 400 metres, Handicap, Men
+- High Jump, Handicap, Men
+- Long Jump, Handicap, Men
+- Shot Put, Handicap, Men
+- Discus Throw, Handicap, Men
+- Maneuvering, International, Volunteer Firefighters, Men
+- 50 yards Freestyle, Men
+- 100 yards Freestyle, Men
+- 220 yards Freestyle, Men
+- 440 yards Freestyle, Men
+- 880 yards Freestyle, Men
+- 1 mile Freestyle, Men
+- Tumbling, Men
+- Horizontal Bar, Teams, Men
+- 4,000 metres Steeplechase, Men
+- 5,000 metres, Professionals, Men
+- 25 kilometres, Men
+- 24-Hours Race, Professionals, Men
+- Open, Open
+- ┬╜-1 Ton, Open
+- 1-2 Ton, Open
+- 200 metres Team Swimming, Men
+- Individual All-Around, Field Sports, Men
+- Individual All-Around, Apparatus Work, Men
+- 4 ├ù 50 yards Freestyle Relay, Men
+- 100 yards Backstroke, Men
+- 440 yards Breaststroke, Men
+- Bicycle Polo, Men
+- Target Shooting, Women
+- Embusen, Open
+- Renshu, Open
+- Shiai - Red-White, Open
+- Shiai - East-West, Open
+- Special Figures, Men
+- 1 mile, Men
+- 7 metres, Open
+- Giant Slalom, LW5/7, Men
+- 3-10 Ton, Open
+- 3 miles, Team, Men
+- Korfball, Mixed
+- 12 foot, Open
+- 6.5 metres, Open
+- Kaatsen, Men
+- 5,000 metres, Team, Men
+- 100 metres, Professionals, Men
+- 1,500 metres, Professionals, Handicap, Men
+- Cricket, Men
+- Maneuvering, International, British Firefighters, Men
+- Individual, Handicap, Men
+- 10-20 Ton, Open
+- 20+ Ton, Open
+- Singles, Professionals, Men
+- Doubles, Professionals, Handicap, Men
+- 120 yards Hurdles, Men
+- 2,590 metres Steeplechase, Men
+- Stone Throw, Men
+- All-Around Championship, Men
+- Foil, Individual, Boys
+- Double York Round, Men
+- Continental Style, Men
+- Double National Round, Women
+- A-Class (Open), Open
+- B-Class (Under 60 feet), Open
+- C-Class, Open
+- Small-Bore Rifle, 50 and 100 yards, Team, Men
+- 18 foot, Open
+- High Jump, Professionals, Handicap, Men
+- Long Jump, Professionals, Handicap, Men
+- Shot Put, Professionals, Handicap, Men
+- Rapid Removal of a Manikin from Long Distance, Men
+- ┬╝ mile, Men
+- 1 mile, Novice, Men
+- French Championship, Individual, Men
+- Crossbows, Large Arrows - 35 metres, Individual, Men
+- Crossbows, Arrows - 28 metres, Individual, Men
+- Crossbows, Small Arrows - 20 metres, Individual, Men
+- Crossbows, French Championship, Men
+- 26th Federal Festival, Society and Association Contests, Non-Simultaneous, National Championships, Men
+- 26th Federal Festival, Society and Association Contests, Non-Simultaneous, Olympic Championships, Individual, Men
+- 26th Federal Festival, Society and Association Contests, Non-Simultaneous, Shooting Championships, Youth, Men
+- 26th Federal Festival, Society and Association Contests, Non-Simultaneous, Shooting Championships, Honorary Members and Associates, Men
+- Festival for Societies of the Seine, Instructors, Men
+- Festival for Societies of the Seine, Advanced, Men
+- Festival for Societies of the Seine, Swimming, Individual, Men
+- Festival for Societies of the Seine, Individual, Men
+- Festival for Societies of the Seine, Artistic, Individual, Men
+- Festival for Societies of the Seine, Olympic Competition, Individual, Men
+- Festival for Societies of the Seine, Individual (#2), Men
+- Festival for Societies of the Seine, Swimming, students, individuals, societies, Men
+- 26th Federal Festival, Society and Association Contests, Non-Simultaneous, Shooting Championships, Honorary Members and Associates, Women
+- High Jump, Professionals, Men
+- Long Jump, Professionals, Men
+- Shot Put, Professionals, Men
+- Paris-Toulouse-Paris, Voiturettes, Men
+- Longest distance travelled (#1), Handicap, Open
+- Longest distance travelled (#2), Handicap, Open
+- Longest distance travelled (#3), Open
+- Longest distance travelled (#4), Second Degree, Open
+- Longest time travelled (#1), Handicap, Open
+- Longest time travelled (#2), Handicap, Open
+- Longest time travelled (#3), Open
+- Longest time travelled (#4), Second Degree, Open
+- Greatest height achieved (#1), Handicap, Open
+- Greatest height achieved (#2), Handicap, Open
+- Greatest height achieved (#3), Open
+- Closest landing to target (#1), Open
+- Closest landing to target (#2), Open
+- Closest landing to target (#3), Combined, Open
+- Closest landing to target (#3), Intermediate stop, Open
+- Closest landing to target (#3), Final stop, Open
+- Closest landing to target (#4), Self-selected target, Open
+- Grand Prix de l'a├⌐ronautique, Open
+- Balloon inflation, Open
+- Ascension report, Single ascent, Open
+- Ascension report, Combined, Open
+- Best photograph, 9 September event, Open
+- Best photograph, All events, Open
+- Kites (large), Open
+- Kites (medium), Open
+- Kites (small), Open
+- Two-Man Teams With Cesta, Professional, Men
+- Jeu lyonnais, Quartets, Men
+- Jeu de berges, Quartets, Men
+- Singles, Two Balls, Handicap, Men
+- Singles, One Ball, Open
+- Singles, Two Balls, Open
+- 25 kilometres Motor-paced, Professionals, Men
+- National Team Sprint, Professionals, Men
+- Concours d'honneur, Men
+- Individual, Professional, Men
+- 300 metres with Current Rise of 50 metres with Manikin, Men
+- 200 metres in Swim Outfit with Current Rise of 50 metres with Manikin, Men
+- Rapid Removal of a Manikin from Middle Distance, Men
+- Retrieval by Hook, Men
+- Sculling, Amateurs, Men
+- Partie ├á enlever, Men
+- Partie ├á terrer, Men
+- Overall, Men
+- Preparatory Military Training, Group A, Men
+- Preparatory Military Training, Group B, Men
+- Preparatory Military Training, Group C, Men
+- Preparatory Military Training, Group D, Men
+- Complementary Military Training, Men
+- Free Exercise, Group A, Men
+- Free Exercise, Group B, Men
+- Free Exercise, Group C, Men
+- Speed, < 6.5 m, Men
+- Speed, 6.5-8 m, Men
+- Speed, 8-10 m, Men
+- Speed, 10-15 m, Men
+- Endurance, <6.5 m, Men
+- Endurance, 6.5-8 m, Men
+- Enduance, 8-10 m, Men
+- Endurance 10-15 m, Men
+- Paris-Toulouse-Paris, Motorcycles, Men
+- Single Pleasure Boat, Men
+- French Skiffs, Coxed Pairs, Men
+- French Skiffs, Coxless Fours, Men
+- Coxless Fours, Outriggers, Men
+- Lightweight Coxless Pairs, Mixed
+- 0-┬╜ Ton, Open
+- 2-3 Ton, Open
+- Mano, Triples, Men
+- Bl├⌐, Triples, Men
+- Pala, Doubles, Men
+- Cesta Punta, Triples, Men
+- Canne de combat, Men
+- Two-Man Teams With Cesta, Men
+- Ski Joring, Men
+- Aeronautics, Open
+- 30 metres┬▓, Open
+- 40 metres┬▓, Open
+- Special Scratch Pole Vault #1, Men
+- Special Scratch Pole Vault #2, Men
+- Maneuvering, International, Professional Firefighters, Men
+- American Football, Men
+- Double American Round, Men
+- Team Round, Men
+- Flight Shooting, Men
+- Double Columbia Round, Women
+- Team Round, Women
+- Flight Shooting, Women
+- Individual All-Around, 4 Events, Men
+- 50 yards, Boys
+- 100 yards, Boys
+- 220 yards, Boys
+- 440 yards, Boys
+- 880 yards, Boys
+- 1 mile, Boys
+- 2 miles, Boys
+- 5 miles, Boys
+- 120 yards Hurdles, Boys
+- 220 yards Hurdles, Boys
+- 4 ├ù 440 yards Relay, Boys
+- High Jump, Boys
+- Pole Vault, Boys
+- Long Jump, Boys
+- Shot Put, Boys
+- Discus Throw, Boys
+- Hammer Throw, Boys
+- 56-pound Weight Throw, Boys
+- 100 yards, Men
+- 220 yards, Men
+- 440 yards, Men
+- 880 yards, Men
+- 2 miles, Men
+- 220 yards Hurdles, Men
+- 4 miles, Team, Men
+- Baseball Throw, Men
+- Ball Throw for Accuracy, Men
+- 60 yards, Handicap, Men
+- 2 miles, Handicap, Men
+- 220 yards Hurdles, Handicap, Men
+- 1 mile, Team, Handicap, Men
+- Hammer Throw, Handicap, Men
+- Γàô mile, Men
+- ┬╜ mile, Men
+- 1 mile, Motorcycle, Men
+- 25 miles, Men
+- ┬╜ mile, Handicap, Men
+- 5 miles, Handicap, Men
+- ┬╜ mile, Professionals, Men
+- Γàö mile, Professionals, Men
+- ┬╜ mile, Handicap, Professionals, Men
+- Single Sticks, Individual, Men
+- Driving Contest, Men
+- Putting Contest, Men
+- Double Sculls, Intermediate, Men
+- Coxless Pairs, Intermediate, Men
+- Coxless Fours, Intermediate, Men
+- Eights, Intermediate, Men
+- Plunge For Distance, Men
+- Singles, Boys
+- All-Around Dumbbell Contest, Men
+
+## Paris Events
+
+- Men's Individual Time Trial
+- Women's Individual Time Trial
+- Men's Sabre Individual
+- Women's ╔pΘe Individual
+- Men -60 kg
+- Women -48 kg
+- Men's 400m Freestyle
+- Women's 400m Freestyle
+- Women's Kayak Single
+- Women's Cross-country
+- Men's ╔pΘe Individual
+- Women's Foil Individual
+- Men -66 kg
+- Women -52 kg
+- 10m Air Pistol Men
+- 10m Air Pistol Women
+- Women's Street
+- Men's 100m Breaststroke
+- Men's 400m Individual Medley
+- Women's 100m Butterfly
+- Men's Canoe Single
+- Men's Cross-country
+- Eventing Individual
+- Men's Foil Individual
+- Women's Sabre Individual
+- Men -73 kg
+- Women -57 kg
+- 10m Air Rifle Men
+- 10m Air Rifle Women
+- Men's Street
+- Men's 100m Backstroke
+- Men's 200m Freestyle
+- Women's 100m Breaststroke
+- Women's 200m Freestyle
+- Women's 400m Individual Medley
+- Men -81 kg
+- Women -63 kg
+- Trap Men
+- Men's 800m Freestyle
+- Women's 100m Backstroke
+- Men's All-Around
+- Women's Canoe Single
+- Men's Park
+- Women's Park
+- Men -90 kg
+- Women -70 kg
+- Trap Women
+- Men's 100m Freestyle
+- Men's 200m Breaststroke
+- Men's 200m Butterfly
+- Women's 100m Freestyle
+- Women's 1500m Freestyle
+- Men's Individual
+- Women's Individual
+- Women's All-Around
+- Men's 20km Race Walk
+- Women's 20km Race Walk
+- Men's Kayak Single
+- Men -100 kg
+- Women -78 kg
+- 50m Rifle 3 Positions Men
+- Men's 200m Backstroke
+- Women's 200m Breaststroke
+- Women's 200m Butterfly
+- Men's 10,000m
+- Men
+- Women
+- Men +100 kg
+- Women +78 kg
+- 50m Rifle 3 Positions Women
+- Men's 200m Individual Medley
+- Men's 50m Freestyle
+- Women's 200m Backstroke
+- Women's Singles
+- Men's Floor Exercise
+- Men's Pommel Horse
+- Women's Vault
+- Men's Decathlon
+- Men's Shot Put
+- Women's 100m
+- Women's Triple Jump
+- Women's 60kg
+- Men's Road Race
+- Men's Single Sculls
+- Women's Single Sculls
+- Men's Windsurfing
+- Women's Windsurfing
+- 25m Pistol Women
+- Skeet Men
+- Men's 100m Butterfly
+- Women's 200m Individual Medley
+- Women's 800m Freestyle
+- Men's Singles
+- Men's Rings
+- Men's Vault
+- Women's Uneven Bars
+- Men's 100m
+- Men's Hammer Throw
+- Women's High Jump
+- Men's 51kg
+- Men's 63.5kg
+- Men's 80kg
+- Men's 92kg
+- Women's 54kg
+- Women's Road Race
+- Dressage Individual
+- Men's Individual Stroke Play
+- Skeet Women
+- Men's 1500m Freestyle
+- Women's 50m Freestyle
+- Men's Horizontal Bar
+- Men's Parallel Bars
+- Women's Balance Beam
+- Women's Floor Exercise
+- Men's Pole Vault
+- Women's 5000m
+- Women's 800m
+- Women's Discus Throw
+- Men's Kayak Cross
+- Women's Kayak Cross
+- 25m Rapid Fire Pistol Men
+- Men's 1500m
+- Men's Long Jump
+- Women's 200m
+- Women's 3000m Steeplechase
+- Women's Hammer Throw
+- Men's 71kg
+- Women's 50kg
+- Women's 66kg
+- Women's 10m Platform
+- Jumping Individual
+- Men's Greco-Roman 130kg
+- Men's Greco-Roman 60kg
+- Women's Freestyle 68kg
+- Men's 3000m Steeplechase
+- Men's 400m
+- Men's Discus Throw
+- Women's Pole Vault
+- Men's +92kg
+- Women's 57kg
+- Men's Dinghy
+- Women's Dinghy
+- Women's Speed
+- Men -58kg
+- Women -49kg
+- Men's 61kg
+- Women's 49kg
+- Men's Greco-Roman 77kg
+- Men's Greco-Roman 97kg
+- Women's Freestyle 50kg
+- Men's 110m Hurdles
+- Men's 200m
+- Men's Javelin Throw
+- Women's 400m Hurdles
+- Women's Long Jump
+- Men's 57kg
+- Women's 75kg
+- Men's Omnium
+- Women's Keirin
+- Men's 3m Springboard
+- Women's 10km
+- Women's Kite
+- Men's Speed
+- Men -68kg
+- Women -57kg
+- Men's 73kg
+- Women's 59kg
+- Men's Greco-Roman 67kg
+- Men's Greco-Roman 87kg
+- Women's Freestyle 53kg
+- Men's 400m Hurdles
+- Men's Triple Jump
+- Women's 10,000m
+- Women's 400m
+- Women's Shot Put
+- B-Girls
+- Men's Canoe Single 1000m
+- Men's Sprint
+- Women's 3m Springboard
+- Men's 10km
+- Men's Kite
+- Men's Boulder & Lead
+- Men -80kg
+- Women -67kg
+- Men's 89kg
+- Women's 71kg
+- Men's Freestyle 57kg
+- Men's Freestyle 86kg
+- Women's Freestyle 57kg
+- Men's 5000m
+- Men's 800m
+- Men's High Jump
+- Men's Marathon
+- Women's 100m Hurdles
+- Women's 1500m
+- Women's Javelin Throw
+- B-Boys
+- Men's Kayak Single 1000m
+- Women's Canoe Single 200m
+- Women's Kayak Single 500m
+- Men's 10m Platform
+- Women's Individual Stroke Play
+- Women's Boulder & Lead
+- Men +80kg
+- Women +67kg
+- Men's +102kg
+- Men's 102kg
+- Women's 81kg
+- Men's Freestyle 125kg
+- Men's Freestyle 74kg
+- Women's Freestyle 62kg
+- Women's Marathon
+- Men's Keirin
+- Women's Omnium
+- Women's Sprint
+- Women's +81kg
+- Men's Freestyle 65kg
+- Men's Freestyle 97kg
+- Women's Freestyle 76kg
+- Individual All-Around
+- Women's Heptathlon
+- Women's Synchronised 3m Springboard
+- 10m Air Rifle Mixed Team
+- Men's 4 x 100m Freestyle Relay
+- Women's 4 x 100m Freestyle Relay
+- Women's Team
+- Men's Team
+- Men's Synchronised 10m Platform
+- Eventing Team
+- Women's ╔pΘe Team
+- 10m Air Pistol Mixed Team
+- Men's 4 x 200m Freestyle Relay
+- Mixed Doubles
+- Women's Synchronised 10m Platform
+- Men's Sabre Team
+- Men's Quadruple Sculls
+- Women's Quadruple Sculls
+- Women's Foil Team
+- Men's Double Sculls
+- Men's Four
+- Women's Double Sculls
+- Women's Four
+- Women's 4 x 200m Freestyle Relay
+- Mixed Team
+- Men's Synchronised 3m Springboard
+- Jumping Team
+- Men's ╔pΘe Team
+- Lightweight Men's Double Sculls
+- Lightweight Women's Double Sculls
+- Men's Pair
+- Women's Pair
+- Men's Skiff
+- Women's Skiff
+- 4 x 400m Relay Mixed
+- Women's Doubles
+- Dressage Team
+- Women's Sabre Team
+- Men's Eight
+- Women's Eight
+- Mixed 4 x 100m Medley Relay
+- Men's Doubles
+- Men's Foil Team
+- Men's 4 x 100m Medley Relay
+- Women's 4 x 100m Medley Relay
+- Women's Team Sprint
+- Skeet Mixed Team
+- Mixed Relay
+- Men's Team Sprint
+- Team
+- Marathon Race Walk Relay Mixed
+- Men's Team Pursuit
+- Women's Team Pursuit
+- Men's Canoe Double 500m
+- Men's Kayak Four 500m
+- Women's Kayak Four 500m
+- Mixed Dinghy
+- Mixed Multihull
+- Men's 4 x 100m Relay
+- Women's 4 x 100m Relay
+- Men's Kayak Double 500m
+- Women's Canoe Double 500m
+- Women's Kayak Double 500m
+- Women's Madison
+- Duet
+- Men's 4 x 400m Relay
+- Women's 4 x 400m Relay
+- Men's Madison
+- Group All-Around
