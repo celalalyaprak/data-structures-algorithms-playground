@@ -1,10 +1,3 @@
-# Team members:
-
-Gabriel Khan-Figueroa
-
-Celal Alyaprak 
-
-
 # Milestone 1
 
 This milestone contains the first stage of the project.
@@ -17,3 +10,14 @@ Topics included:
 Run example:
 
 python runproject.py
+
+
+
+
+# Team members:
+
+Gabriel Khan-Figueroa
+
+Celal Alyaprak 
+
+
