@@ -1,36 +1,22 @@
-Project Description
+# Data Structures & Algorithms Playground
 
-This repository contains implementations of fundamental
-data structures and algorithms including:
+A collection of data structures and algorithms implemented in **Python**, organized as course-style milestones and a final project.
 
-• Hash Tables
-• Binary Search Trees
-• AVL Trees
-• Trie Data Structures
-• Heap Sort
-• Recursion Algorithms
+## What’s inside
+- **Milestone 1**: foundations (recursion, sorting, basic DS)
+- **Final Project**: advanced topics and integrated tasks
 
+## Key Topics
+- Recursion
+- Sorting algorithms
+- Hash tables
+- Trees (BST / AVL)
+- Tries (prefix search)
+- Graph algorithms
 
-Technologies
+## How to run
+> Requirements: Python 3.x
 
--Python
--C++
--Algorithm Analysis
--Data Structures
-
-Key Features
-
-• Custom Hash Table implementation
-• Trie data structure for fast prefix search
-• Binary Search Tree insertion & traversal
-• Heap data structure with heap sort
-• Graph algorithms implementation
-
-Real World Applications
-
-These algorithms are used in:
-
-• search engines
-• database indexing
-• AI search algorithms
-• recommendation systems
+Example:
+```bash
+python milestone-1/runproject.py
