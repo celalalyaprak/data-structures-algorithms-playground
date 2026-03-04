@@ -1,7 +1,5 @@
 # Team members:
 
-Gabriel Khan-Figueroa 128094240
+Gabriel Khan-Figueroa
 
-Celal Alyaprak 177177235
-
-* Roman team member name 3
+Celal Alyaprak 
